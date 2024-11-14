@@ -16,4 +16,4 @@ Nuestro programa cuenta con el uso de:
 9. functools.partial
 
 
-Autores: Federico Tambler y Santiago Pereira        
+Autores: Federico Tambler y Santiago Pereira   
